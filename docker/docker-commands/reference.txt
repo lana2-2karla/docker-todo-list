@@ -1,0 +1,3 @@
+arquivo command03.dc - listagem de containers filtrados - link: https://jtemporal.com/brincando-com-a-listagem-de-containers-docker/
+
+super ajuda de André Torres e Elimar Lucena - Turma XP - Tribo B - req 4
